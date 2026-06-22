@@ -24,7 +24,6 @@
 - **C** • **Python** • **JavaScript** • **PHP** • **SQL**
 - **HTML** • **CSS**
 
-
 **Specialties**
 - Penetration Testing
 - OSINT
@@ -35,8 +34,9 @@
 
 ### 🚀 Featured Projects
 
-- **[Calculator](https://github.com/gl1tch-ux/calculator)** – Modern web calculator built with HTML, CSS & JavaScript
-- *More projects coming soon...*
+- **[Calculator](https://github.com/gl1tch-ux/calculator)** – Modern and clean calculator built with HTML, CSS & JavaScript
+- **[wp-checker](https://github.com/gl1tch-ux/wp-checker)** – Python tool to check a wordlist of websites and detect which ones are running WordPress
+- **[anonhanger](https://github.com/gl1tch-ux/anonhanger)** – Python script to quickly change MAC address and IP address for better anonymity
 
 ### 📊 GitHub Stats
 
@@ -48,5 +48,3 @@
 ---
 
 **"The only way to learn is to break things... then fix them better."**
-
----
