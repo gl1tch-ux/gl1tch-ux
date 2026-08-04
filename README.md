@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gl1tch-ux&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gl1tch-ux&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
