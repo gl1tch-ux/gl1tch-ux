@@ -2,7 +2,7 @@
   <h1>Hi there, I'm <span style="color:#00d26a;">gl1tch-ux</span> 👾</h1>
   
   <p>
-    <strong>Pentester</strong> • <strong>Full Stack Developer</strong> • <strong>Malware Analyst</strong>
+    <strong>Pentester</strong> • <strong>Full Stack Developer</strong> • <strong>Malware Analyst</strong>• <strong>Malware Developer</strong>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=gl1tch-ux&label=Profile%20Views&color=00d26a&style=flat&abbreviated=true" alt="Profile Views" />
@@ -22,7 +22,7 @@
 
 **Programming Languages**
 - **C** • **Python** • **JavaScript** • **PHP** • **SQL**
-- **HTML** • **CSS**
+- **HTML** • **CSS** • **Assembly**
 
 **Specialties**
 - Penetration Testing
@@ -32,16 +32,10 @@
 - OPSEC
 - Full Stack Web Development
 
-### 🚀 Featured Projects
-
-- **[Calculator](https://github.com/gl1tch-ux/calculator)** – Modern and clean calculator built with HTML, CSS & JavaScript
-- **[wp-checker](https://github.com/gl1tch-ux/wp-checker)** – Python tool to check a wordlist of websites and detect which ones are running WordPress
-- **[anonhanger](https://github.com/gl1tch-ux/anonhanger)** – Python script to quickly change MAC address and IP address for better anonymity
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gl1tch-ux&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gl1tch-ux&theme=tokyonight&hide_border=true" />
 </div>
 
