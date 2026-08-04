@@ -55,34 +55,6 @@
 
 ---
 
-## 🐧 Operating Systems
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Arch%20Linux-111111?style=for-the-badge&logo=arch-linux&logoColor=1793D1" />
-<img src="https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=0078D6" />
-
-</p>
-
----
-
-## 🔐 Cybersecurity
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
-<img src="https://img.shields.io/badge/Malware%20Analysis-111111?style=for-the-badge&logo=virustotal&logoColor=394EFF" />
-<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=google&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/Digital%20Forensics-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-<img src="https://img.shields.io/badge/OPSEC-111111?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" />
-
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
