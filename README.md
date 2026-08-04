@@ -13,7 +13,6 @@
 # 👨‍💻 About Me
 
 - 🔍 Passionate about **Cybersecurity**, **Offensive Security**, and **Digital Forensics**
-- 🛠️ I break things to make them more secure
 - 🌐 Full Stack Developer with a security-first mindset
 - 🧠 Currently exploring **Reverse Engineering**, **OSINT**, **Malware Analysis**, and **Low-Level Programming**
 - ⚡ Linux enthusiast (Arch Linux)
@@ -70,13 +69,3 @@
 </div>
 
 ---
-
-
-
----
-
-<div align="center">
-
-> **"The only way to learn is to break things... then fix them better."**
-
-</div>
